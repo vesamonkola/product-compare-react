@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "name": "Orange",
+      "name": "Banaani",
       "image": "images/Orange.png",
       "price": "$2.99",
       "colors": ["green", "blue"],
